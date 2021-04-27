@@ -1,0 +1,29 @@
+{
+  "name": "chat-guard-bot",
+  "version": "1.0.0",
+  "description": "Discord sunucuları için chat guard  botu",
+  "main": "chat-guard.js",
+  "scripts": {
+    "start": "node chat-guard.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "discord-bot",
+    "discord",
+    "discord.js",
+    "Wicther"
+  ],
+  "author": "Klanter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/"
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "mongoose": "^5.11.17"
+  }
+}
